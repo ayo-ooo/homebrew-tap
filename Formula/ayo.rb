@@ -1,11 +1,11 @@
 class Ayo < Formula
   desc "CLI tool for building AI agents with structured inputs and outputs"
   homepage "https://github.com/ayo-ooo/ayo"
-  version "0.1.1"
+  version "0.1.3"
   license "MIT"
 
   url "https://github.com/ayo-ooo/ayo/archive/refs/tags/v#{version}.tar.gz"
-  sha256 "ba5051254a882830867cca7751c66382d3fdc9d961921beaa03f639ed6be56a0"
+  sha256 "1bb2da003f1cd0fd91bd68cdb6d7f435e0056327a4f06360745b043827a5be20"
 
   depends_on "go" => :build
 
